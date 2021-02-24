@@ -1,8 +1,9 @@
 # Tensorflow 
 
-This repo contains notebooks of Deep Learning API - Tensorflow 
+This repo contains several Deep Learning projects developed using Tensorflow - Keras 
 
 Projects included:
 
-* Breast cancer classification
+* Breast cancer classification using ANN
 * Predicting Ice Cream Sales using Recurrent Neural Networks (RNN)
+* Clustering eating habits of different countries using Autoencoders
