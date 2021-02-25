@@ -7,3 +7,4 @@ Projects included:
 * Breast cancer classification using ANN
 * Predicting Ice Cream Sales using Recurrent Neural Networks (RNN)
 * Clustering eating habits of different countries using Autoencoders
+* Creating fake images using Generative Adversarial Networks (GANs)
